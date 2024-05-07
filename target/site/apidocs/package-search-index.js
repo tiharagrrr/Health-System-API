@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.w1953194.dao"},{"l":"com.w1953194.exception"},{"l":"com.w1953194.model"},{"l":"com.w1953194.resource"}];updateSearchResults();
